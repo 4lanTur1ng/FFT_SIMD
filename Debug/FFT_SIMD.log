@@ -1,0 +1,10 @@
+﻿  SIMD.cpp
+D:\Parallel Program Codes\FFT_SIMD\SIMD.cpp(74,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Parallel Program Codes\FFT_SIMD\SIMD.cpp(79,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Parallel Program Codes\FFT_SIMD\SIMD.cpp(84,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Parallel Program Codes\FFT_SIMD\SIMD.cpp(249,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Parallel Program Codes\FFT_SIMD\SIMD.cpp(286,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Parallel Program Codes\FFT_SIMD\SIMD.cpp(358,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\Parallel Program Codes\FFT_SIMD\SIMD.cpp(395,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Parallel Program Codes\FFT_SIMD\SIMD.cpp(471,22): warning C4018: “<”: 有符号/无符号不匹配
+  FFT_SIMD.vcxproj -> D:\Parallel Program Codes\FFT_SIMD\Debug\FFT_SIMD.exe
